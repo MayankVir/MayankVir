@@ -2,30 +2,30 @@
 
 ## I'm a Frontend Developer and a Teacher!!
 
-- 🔭 I’m currently working on Frontend development projects.
-- 🌱 I’m currently learning Backend technologies like NodeJs, Express and MongoDb
-- 👯 I’m willing to collaborate on building tech content and also working on a Frontend Course
+- 🔭 I’m currently working on Frontend development projects. ( HTML/CSS, JS, ReactJs and Redux )
+- 🌱 I’m currently learning Backend technologies. ( NodeJs, Express and MongoDb )
+- 👯 I’m willing to collaborate on building tech content and also working on a Frontend Course.
 - 📫 Reach me at: virmanimayank15@gmail.com
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play Snooker and Polymath is my thing
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love to play Snooker and Polymath is my thing.
 
 ### Connect with me:
 
 [<img align="left" alt="MayankVirmani | Twitter" width="22px" src="/logos/twitter.svg" />][twitter]
-[<img align="left" alt="MayankVirmani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MayankVirmani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MayankVirmani | LinkedIn" width="22px" src="/logos/linkedin.svg" />][linkedin]
+[<img align="left" alt="MayankVirmani | Instagram" width="22px" src="/logos/ig.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="/logos/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="/logos/css.svg" />
+<img align="left" alt="HTML5" width="22px" src="/logos/html.svg" />
+<img align="left" alt="CSS3" width="22px" src="/logos/css.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="/logos/node.svg" />
+<img align="left" alt="Node.js" width="32px" src="/logos/node.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
