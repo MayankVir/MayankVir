@@ -1,4 +1,4 @@
-### Hi there, I'm Mayank Virmani] 👋
+### Hi there, I'm Mayank Virmani 👋
 
 ## I'm a Frontend Developer and a Teacher!!
 
