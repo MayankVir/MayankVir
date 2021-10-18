@@ -26,8 +26,8 @@
 <img align="left" alt="JavaScript" width="26px" src="/logos/js.svg" />
 <img align="left" alt="React" width="26px" src="/logos/react.svg" />
 <img align="left" alt="Node.js" width="32px" src="/logos/node.svg" />
-<img align="left" alt="SQL" width="26px" src="/logos/sql.jpg" />
-<img align="left" alt="MongoDB" width="26px" src="/logos/mongo.svg" />
+<!-- <img align="left" alt="SQL" width="26px" src="/logos/sql.jpg" /> -->
+<img align="left" alt="MongoDB" width="75px" src="/logos/mongo.svg" />
 <img align="left" alt="Git" width="26px" src="/logos/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="/logos/github.svg" />
 
