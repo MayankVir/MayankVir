@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Backend technologies. ( NodeJs, Express and MongoDb )
 - 👯 I’m willing to collaborate on building tech content and also working on a Frontend Course.
 - 📫 Reach me at: virmanimayank15@gmail.com
-- 🥅 2022 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love to play Snooker and Polymath is my thing.
 
