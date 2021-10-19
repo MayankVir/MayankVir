@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer and a Teacher!!
 
-<img align="right" alt="png" height="300px" width="300px" src="/logos/snap.png" />
+<img align="right" alt="png" height="250px" width="250px" src="/logos/snap.png" />
 
 - 🔭 I’m currently working on Frontend development projects. ( HTML/CSS, JS, ReactJs and Redux )
 - 🌱 I’m currently learning Backend technologies. ( NodeJs, Express and MongoDb )
