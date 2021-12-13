@@ -1,15 +1,15 @@
 ### Hi there, I'm Mayank Virmani 👋
 
-## I'm a Frontend Developer and a Teacher!!
+## I'm a Frontend Developer!!
 
 <img align="right" alt="png" height="250px" width="250px" src="/logos/snap.png" />
 
 - 🔭 I’m currently working on Frontend development projects. ( HTML/CSS, JS, ReactJs and Redux )
 - 🌱 I’m currently learning Backend technologies. ( NodeJs, Express and MongoDb )
-- 👯 I’m willing to collaborate on building tech content and also working on a Frontend Course.
+- 👯 I’m willing to collaborate on building tech content.
 - 📫 Reach me at: virmanimayank15@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love to play Snooker and Polymath is my thing.
+- ⚡ Fun fact: I love to play Billiards and Polymath is my thing.
 
 ### Connect with me:
 
