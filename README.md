@@ -1,11 +1,11 @@
 ### Hi there, I'm Mayank Virmani 👋
 
-## I'm a Frontend Developer!!
+## I'm a Fullstack Developer!!
 
 <img align="right" alt="png" height="250px" width="250px" src="/logos/snap.png" />
 
 - 🔭 I’m currently working on Frontend development projects. ( HTML/CSS, JS, ReactJs and Redux )
-- 🌱 I’m currently learning Backend technologies. ( NodeJs, Express and MongoDb )
+- 🌱 I’m currently learning Backend technologies more in depth. ( NodeJs, Express and MongoDb )
 - 👯 I’m willing to collaborate on building tech content.
 - 📫 Reach me at: virmanimayank15@gmail.com
 - 😄 Pronouns: He/Him.
