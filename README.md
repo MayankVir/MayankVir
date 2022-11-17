@@ -1,11 +1,12 @@
 ### Hi there, I'm Mayank Virmani 👋
 
-## I'm a Fullstack Developer!!
+## I'm a Fullstack Developer (Frontend Focused)!!
 
 <img align="right" alt="png" height="250px" width="250px" src="/logos/snap.png" />
 
-- 🔭 I’m currently working on Frontend development projects. ( HTML/CSS, JS, ReactJs and Redux )
-- 🌱 I’m currently learning Backend technologies more in depth. ( NodeJs, Express and MongoDb )
+- 🔭 I’m currently working with Polysynth as SDE - Frontend on tech like NextJs and Typescript.
+- 🔭 I have also been a part of MIDAS Labs - IIIT Delhi as a Full stack developer where we focus on building a hiring platform for organisations / institutions which is currently being used by Adobe, SLTI and many more.
+- 🔭 I have worked on various projects involving complete full stack development with tech like MERN, Netlify, AWS and Heroku.
 - 👯 I’m willing to collaborate on building tech content.
 - 📫 Reach me at: virmanimayank15@gmail.com
 - 😄 Pronouns: He/Him.
