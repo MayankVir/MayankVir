@@ -4,9 +4,9 @@
 
 <img align="right" alt="png" height="250px" width="250px" src="/logos/snap.png" />
 
-- 🔭 I’m currently working with Polysynth as SDE - Frontend on tech like NextJs and Typescript.
-- 🔭 I have also been a part of MIDAS Labs - IIIT Delhi as a Full stack developer where we focus on building a hiring platform for organisations / institutions which is currently being used by Adobe, SLTI and many more.
-- 🔭 I have worked on various projects involving complete full stack development with tech like MERN, Netlify, AWS and Heroku.
+- 🔭 I’m currently working with Sunking as SDE - Frontend on building and managing multiple internal tools (CRM).
+- 🔭 I have also been a part of Olive(Formerly Polysynth) where I worked on Web3 Fintech space and MIDAS Labs - IIIT Delhi as a Full stack developer where we focus on building a hiring platform for organisations/institutions which is currently being used by Adobe, SLTI and many more.
+- 🔭 I have worked on various projects involving complete full-stack development with techs like MERN, Netlify, AWS and Heroku.
 - 👯 I’m willing to collaborate on building tech content.
 - 📫 Reach me at: virmanimayank15@gmail.com
 - 😄 Pronouns: He/Him.
